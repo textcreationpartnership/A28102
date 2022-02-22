@@ -1,0 +1,368 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse of the happy union of the kingdoms of England &amp; Scotland dedicated in private to King James I / by Francis Lord Bacon.</title>
+            <title>Briefe discourse touching the happie union of the kingdomes of England and Scotland</title>
+            <author>Bacon, Francis, 1561-1626.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28102</idno>
+            <idno type="STC">Wing B281</idno>
+            <idno type="STC">ESTC R15038</idno>
+            <idno type="EEBO-CITATION">12854513</idno>
+            <idno type="OCLC">ocm 12854513</idno>
+            <idno type="VID">94576</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28102)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94576)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 706:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse of the happy union of the kingdoms of England &amp; Scotland dedicated in private to King James I / by Francis Lord Bacon.</title>
+                  <title>Briefe discourse touching the happie union of the kingdomes of England and Scotland</title>
+                  <author>Bacon, Francis, 1561-1626.</author>
+               </titleStmt>
+               <extent>23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Milbourn, and sold by A. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Gibson describes A1 as blank; in this copy it has half-title: Articles touching the union of England and Scotland. cf. Gibson, R.W. Francis Bacon 67.</note>
+                  <note>First published (1603) as A briefe discovrse, tovching the happie vnion.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1689-1745.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:94576:1"/>
+            <pb facs="tcp:94576:1" rendition="simple:additions"/>
+            <p>ARTICLES Touching The UNION OF England <hi>and</hi> Scotland.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:94576:2"/>
+            <pb facs="tcp:94576:2" rendition="simple:additions"/>
+            <p>A DISCOURSE OF THE Happy Union OF THE KINGDOMS OF <hi>England</hi> &amp; <hi>Scotland:</hi> Dedicated in Private to King JAMES I. By <hi>FRANCIS</hi> Lord <hi>BACON.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Milbourn,</hi> and Sold by <hi>A. Baldwin</hi> in <hi>Warwick-Lane,</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:94576:3"/>
+            <pb n="5" facs="tcp:94576:3"/>
+            <head>A <hi>Diſcourſe of the Happy <g ref="char:V">Ʋ</g>nion,</hi> &amp;c.</head>
+            <p>OF this Diſcourſe there is Two Parts: The Firſt Part is Philoſophical, and there needs this only to be Noted.</p>
+            <p>There are Two ſeveral Kinds of Policy (ſays he) in Uniting and Conjoyning of States and Kingdoms: The one, to retain the Ancient Form ſtill Severed, and on<g ref="char:EOLhyphen"/>ly Conjoyn'd in Soveraignty: The other, to ſuperinduce a New Form agreeable and convenient to both. The former hath been uſual, and is eaſie: But the Latter, more happy. Of the Form whereby States and Kingdoms are perfectly United, there are (beſides the Soveraignty it ſelf) Four in Number, <hi>viz.</hi> Union in Name, Union in Language, Union in Laws, and Union in Employments.</p>
+            <p>In his Second Part, waving his Complements to the King, I will come to the Buſineſs, and thus he writes.</p>
+            <p>My Purpoſe is only to break this Matter of the Union into certain ſhort <hi>Articles</hi> and <hi>Questions,</hi> and to make a certain kind of <hi>Anatomy</hi> or <hi>Analyſis</hi> of the Parts and Mem<g ref="char:EOLhyphen"/>bers thereof; not that I am of Opinion that all the <hi>Que<g ref="char:EOLhyphen"/>ſtions</hi> which I now ſhall open, were fit to be in the Con<g ref="char:EOLhyphen"/>ſultation of the <hi>Commiſſioners</hi> propounded. For I hold no<g ref="char:EOLhyphen"/>thing ſo great an Enemy to good Reſolution, as the making of too many Queſtions, ſpecially in <hi>Aſſemblies,</hi> which con<g ref="char:EOLhyphen"/>ſiſt of many. For <hi>Princes,</hi> for avoiding of Diſtraction, muſt take many things by way of Admittance; and if <hi>Queſtions</hi> muſt be made of them, rather to ſuffer them to ariſe from others, than to Grace them, and Authorize
+<pb n="6" facs="tcp:94576:4"/>them as propounded for themſelves. But unto your <hi>Majeſties</hi> private Conſideration, to whom it may better ſort with me rather to ſpeak as a <hi>Remembrancer,</hi> than as <hi>Counſeller,</hi> I have thought good to lay before you all the <hi>Branches, Lineaments,</hi> and <hi>Degrees</hi> of this <hi>
+                  <g ref="char:V">Ʋ</g>nion,</hi> that upon the <hi>View</hi> and Conſideration of them and their Circumſtances, your <hi>Majeſty</hi> may the more clearly diſcern, and more readily call to mind which of them is to be embraced, and which to be rejected: And of theſe, which are to be accepted, which of them to be preſently to be proceeded in, and which to be put over to further time; and again which of them ſhall require <hi>Authority of Parliament,</hi> and which are fitter to be effected by your <hi>Majeſties Royal Power</hi> and <hi>Pre<g ref="char:EOLhyphen"/>rogative,</hi> or by other Pollicies or Means: And Laſtly, which of them is liker to paſs with Difficulty and Con<g ref="char:EOLhyphen"/>tradiction, and which with more Facility and Smoothneſs.</p>
+            <p>Firſt therefore to begin with that Queſtion that I ſuppoſe will be out of queſtion.</p>
+            <p>Whether it be not meet,
+<note place="margin">Statutes con<g ref="char:EOLhyphen"/>cerning <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> and the Scottiſh Nati<g ref="char:EOLhyphen"/>on.</note> that the Statutes, which were made touching <hi>Scotland,</hi> or the <hi>Scottiſh Nation,</hi> while the <hi>Kingdoms</hi> ſtood ſevered, be Repealed?</p>
+            <p>It is true, there is a Diverſity in theſe: For ſome of theſe <hi>Laws</hi> conſider <hi>Scotland</hi> as an Enemy Country; others Laws conſider it as a Foreign Country only: As for <hi>Example,</hi> the Law of <hi>Rich.</hi> 2. <hi>Anno</hi> 7th. which prohibiteth all Armour or Victual, to be carrryed to <hi>Scotland:</hi> And the Laws of 7th. of <hi>K. H.</hi> the 7th. that Enacteth all the <hi>Scottiſh</hi> Men to depart the Realm within a Time prefix'd: Both theſe <hi>Laws,</hi> and ſome others, reſpect <hi>Scotland</hi> as a Country of Hoſtility; But the <hi>Laws</hi> of 22. of <hi>Edward</hi> 4th. that endu<g ref="char:EOLhyphen"/>eth <hi>Barwick</hi> with the Liberty of a <hi>Staple,</hi> where all <hi>Scottiſh Merchandizes</hi> ſhould reſort that ſhould be uttered for <hi>En<g ref="char:EOLhyphen"/>gland:</hi> And likewiſe all <hi>Engliſh Merchandizes</hi> that ſhould be uttered for <hi>Scotland.</hi> This <hi>Law</hi> beholdeth <hi>Scotland,</hi> on<g ref="char:EOLhyphen"/>ly as a <hi>Forein Nation;</hi> And not ſo much neither; For there
+<pb facs="tcp:94576:4"/>have been erected <hi>Staples,</hi> in Towns of <hi>England,</hi> for ſome Commodities, with an Excluſion and Reſtriction of other Parts of <hi>England.</hi>
+            </p>
+            <p>But this is a Matter of the leaſt Difficulty;
+<note place="margin">Laws Cuſtoms Commiſſions, Officers, of the Borders or Marches.</note> your <hi>Majeſty</hi> ſhall have a <hi>Calendar</hi> made of the <hi>Laws,</hi> and a <hi>Brief</hi> of the Effect: And ſo you may judge of them: And the like, or Reciproque is to be done by <hi>Scotland,</hi> for ſuch Laws as they have concerning <hi>England</hi> and the <hi>Engliſh Nation.</hi>
+            </p>
+            <p>The Second Queſtion is, what Laws, Cuſtoms, Commiſ<g ref="char:EOLhyphen"/>ſions, Officers, Garriſons, and the like, are to be put down, diſcontinued, or taken away, upon the Borders of both Realms.</p>
+            <p>This <hi>Point,</hi> becauſe I am not acquainted with the <hi>Orders</hi> of the <hi>Marches,</hi> I can ſay leſs.</p>
+            <p>Herein falleth that <hi>Queſtion,</hi> whether that the <hi>Tenants,</hi> who hold their <hi>Tenant Rights</hi> in a greater Freedom and Ex<g ref="char:EOLhyphen"/>emption, in Conſideration of their Service upon the <hi>Bor<g ref="char:EOLhyphen"/>ders;</hi> And that the <hi>Countries</hi> themſelves, which are in the ſame reſpect diſcharged of <hi>Subſidies</hi> and <hi>Taxes,</hi> ſhould not now be brought to be in one degree with other <hi>Tenants</hi> and <hi>Countries; Nam ceſſante cauſa tollitur Effectus;</hi> where<g ref="char:EOLhyphen"/>in in my Opinion, ſome time would be given, <hi>Quia ad<g ref="char:EOLhyphen"/>huc eorum Meſſis in Herba est:</hi> But ſome preſent <hi>Ordinance</hi> would be made to take effect at a future time, conſidering it is one of the greateſt <hi>Points</hi> and <hi>Marks</hi> of the Diviſion of the <hi>Kingdoms.</hi> And becauſe Reaſon doth dictate, that where the principal Solution of Continuity was, there the Healing and Conſolidating Plaiſter ſhould be chiefly ap<g ref="char:EOLhyphen"/>plyed; There would be ſome further Device, for the ut<g ref="char:EOLhyphen"/>ter and perpetual Confounding of thoſe <hi>Imaginary Pounds,</hi> (as your <hi>Majeſty</hi> termeth them;) And therefore it would be conſidered, whether it were not convenient to Plant and Erect, at <hi>Carlile,</hi> or <hi>Barwick,</hi> ſome <hi>Counſel,</hi> or <hi>Court</hi> of <hi>Justice,</hi> the <hi>Juriſdiction</hi> whereof, might extend part in<g ref="char:EOLhyphen"/>to <hi>England,</hi> and part into <hi>Scotland;</hi> With a <hi>Commiſſion,</hi>
+               <pb facs="tcp:94576:5"/>not to proceed precilely, or meerly, according to the <hi>Laws</hi> and <hi>Cuſtoms,</hi> either of <hi>England</hi> or <hi>Scotland,</hi> but mixtly, ac<g ref="char:EOLhyphen"/>cording to Inſtruction, by your Majeſty to be ſet down, after the Imitation, and Preſident of the <hi>Counſel</hi> of the <hi>Marches</hi> here in <hi>England,</hi> Erected upon the <hi>
+                  <g ref="char:V">Ʋ</g>nion of Wales.</hi>
+            </p>
+            <p>The Third <hi>Question</hi> is that which many will make a great <hi>Queſtion</hi> of,
+<note place="margin">Further Union beſides the Removing of Inconvenient and diffenting Laws and Uſages.</note> though perhaps your Majeſty will make no <hi>Queſtion</hi> of it; And that is, Whether your Majeſty ſhould not make a ſtop or ſtand here, and not to proceed to any further <hi>
+                  <g ref="char:V">Ʋ</g>nion,</hi> contenting your ſelf with the two former <hi>Articles</hi> or <hi>Point.</hi>
+            </p>
+            <p>For it will be ſaid, That we are now well, (thanks be to God;) And your <hi>Majeſty,</hi> and the <hi>State</hi> of neither <hi>King<g ref="char:EOLhyphen"/>dom</hi> is to be repented of, And that it is true which <hi>Hippo<g ref="char:EOLhyphen"/>crates</hi> ſaith; That, <hi>Sana Corpora difficile medicationes ferunt:</hi> It is better to make Alterations in ſick Bodies, than in ſound. The <hi>Conſideration</hi> of which <hi>point,</hi> will reſt upon theſe two <hi>Branches:</hi> What <hi>Inconveniencies</hi> will enſue with time, if the <hi>Realms</hi> ſtand as they are, divided, which are yet not found nor ſprung up. For it may be the ſweetneſs of your <hi>Majesties</hi> firſt entrance, and the great Benefit that both <hi>Nations</hi> have ſelt thereby, hath covered many <hi>Inconveniencies;</hi> which ne<g ref="char:EOLhyphen"/>vertheleſs be your <hi>Majesties</hi> Government, never ſo gracious and Politick, Continuance of time and the Accidents of time may breed and diſcover, if the <hi>Kingdoms</hi> ſtand divided.</p>
+            <p>The ſecond <hi>Branch</hi> is, allow no manifeſt or important Pe<g ref="char:EOLhyphen"/>ril or <hi>Inconvenience</hi> ſhould enſue of the continuing of the <hi>King<g ref="char:EOLhyphen"/>doms</hi> divided, yet on the other Side, whether that upon fur<g ref="char:EOLhyphen"/>ther <hi>
+                  <g ref="char:V">Ʋ</g>niting</hi> of them, there be not like to follow that Addi<g ref="char:EOLhyphen"/>tion and encreaſe of Wealth and Reputation, as is worthy your <hi>Majeſties</hi> Vertues and Fortune, to be the Author and Founder of, for the advancement and Exaltation of <hi>your Ma<g ref="char:EOLhyphen"/>jesties Royal Poſterity</hi> in time to come.</p>
+            <p>But admitting that your <hi>Majeſty</hi> ſhould proceed to this more perfect and entire <hi>
+                  <g ref="char:V">Ʋ</g>nion,</hi>
+               <note place="margin">Points where<g ref="char:EOLhyphen"/>in the Nations ſtand already united.</note> wherein your <hi>Majeſty</hi> may
+<pb n="9" facs="tcp:94576:5"/>ſay <hi>Majus Opus moveo,</hi> to enter into the <hi>parts</hi> and <hi>degrees</hi> thereof, I think fit firſt to ſet down as in a brief <hi>Table</hi> in what points the <hi>Nations</hi> ſtand now at this preſent time already <hi>u<g ref="char:EOLhyphen"/>nited,</hi> and in what <hi>Points</hi> yet ſtill ſevered and divided, that your <hi>Majesty</hi> may the better ſee what is done, and what is to be done; And how that which is to be done is to be infer<g ref="char:EOLhyphen"/>red upon that which is done.</p>
+            <p>The <hi>Points,</hi> wherein the <hi>Nations</hi> ſtand already united are;</p>
+            <list>
+               <item>In <hi>Soveraignty.</hi>
+               </item>
+               <item>In the <hi>Relative</hi> thereof which is <hi>Subjection.</hi>
+               </item>
+               <item>In <hi>Religion.</hi>
+               </item>
+               <item>In <hi>Continent.</hi>
+               </item>
+               <item>In <hi>Language.</hi>
+               </item>
+               <item>And now laſtly, by the Peace by your <hi>Majeſty</hi> concluded with <hi>Spain</hi> in <hi>Leagues</hi> and <hi>Confederacies,</hi> for now both <hi>Na<g ref="char:EOLhyphen"/>tions</hi> have the ſame Friends and the ſame Enemies.</item>
+            </list>
+            <p>Yet notwithſtanding there is none of the ſix points, where<g ref="char:EOLhyphen"/>in the <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> is perfect, and Conſummate; But every of them hath ſome ſcruple or rather Grain of ſeparation en<g ref="char:EOLhyphen"/>wrapped and included in them.</p>
+            <p>For the <hi>Soveraignty,</hi>
+               <note place="margin">Soveraignty Line Royal.</note> the <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> is abſolute in your <hi>Majesty</hi> and your <hi>Generation,</hi> but if it ſhould ſo be (which <hi>God</hi> of his infinite mercy defend) that your Iſſue ſhould fail, then the deſcent of both <hi>Realms</hi> doth reſort to the ſeveral <hi>Lines</hi> of the Several <hi>Blouds Royal.</hi>
+            </p>
+            <p>For <hi>Subjection,</hi> I take the Law of <hi>England</hi> to be clear,
+<note place="margin">Subjection Obedience.</note> (what the Law of <hi>Scotland</hi> is I know not) That all <hi>Scottiſhmen</hi> from the very Inſtant of your <hi>Majeſties Reign</hi> begun, are be<g ref="char:EOLhyphen"/>come <hi>Denizons,</hi> and the <hi>Poſt-Nati</hi> are naturalized Subjects of <hi>England</hi> for the time forwards:
+<note place="margin">Alien Natura<g ref="char:EOLhyphen"/>lization.</note> For by our <hi>Laws</hi> none can be an <hi>Alien,</hi> but he that is of another Allegiance, than our <hi>Soveraign Lord the Kings;</hi> For there be but two ſorts of <hi>A<g ref="char:EOLhyphen"/>liens,</hi> whereof we find mention in our <hi>Law,</hi> an <hi>Alien Ami,</hi>
+               <pb n="10" facs="tcp:94576:6"/>and an <hi>Alien Enemy,</hi> whereof the former is a <hi>Subject of State</hi> in <hi>Amity</hi> with the <hi>King,</hi> and the latter a <hi>Subject</hi> of a <hi>State in Hoſtility:</hi> But whether he be one o'th other, it is an Eſſential Difference unto the Definition of an <hi>Alien;</hi> if he be not of the <hi>King's Allegiance,</hi> as we ſee it evidently in the preſident of <hi>Ireland,</hi> who ſince they were <hi>Subjects</hi> to the <hi>Crown of Eng<g ref="char:EOLhyphen"/>land,</hi> have ever been Inheritable and capable as <hi>Natural Sub<g ref="char:EOLhyphen"/>jects,</hi> and yet not by any <hi>Statute</hi> or <hi>Act of Parliament,</hi> but meerly by the <hi>Common Law,</hi> and the Reaſon thereof. So as there is no doubt, that every <hi>Subject</hi> of <hi>Scotland,</hi> was, and is in like Plight and degree, ſince your <hi>Majeſties</hi> coming in, as if your <hi>Majesty</hi> had granted particularly your <hi>Letters</hi> of <hi>Denization</hi> or <hi>Naturalization</hi> to every of them, and the <hi>Poſt Nati</hi> wholly <hi>Natural.</hi> But then on the other ſide, for the time Backwards, and for thoſe that were <hi>Anto Nati,</hi> the <hi>Bloud</hi> is not by Law naturalized, ſo as they cannot take it by deſcent from their <hi>Anceſtors</hi> without <hi>Act</hi> of <hi>Varliament.</hi> And therefore in this <hi>Point</hi> there is a <hi>defect</hi> in the <hi>
+                  <g ref="char:V">Ʋ</g>nion of Subjection.</hi>
+            </p>
+            <p>For matter of <hi>Religion,</hi>
+               <note place="margin">Religion, Church-Go<g ref="char:EOLhyphen"/>vernment</note> the <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> is perfect in points of <hi>Doctrine,</hi> but in matter of <hi>Diſcipline</hi> and <hi>Government,</hi> it is imperfect.</p>
+            <p>For the <hi>Continent,</hi>
+               <note place="margin">Continent, Borders.</note> it is true, there are not natural <hi>Bounda<g ref="char:EOLhyphen"/>ries</hi> of <hi>Mountains</hi> or <hi>Seas,</hi> or <hi>Navigable Rivers,</hi> but yet there are <hi>Badges</hi> and <hi>memorials</hi> of <hi>Borders,</hi> of which point I have ſpoken before.</p>
+            <p>For the <hi>Language,</hi>
+               <note place="margin">Language, Dialect.</note> it is true, the <hi>Nations</hi> are <hi>unius Labii,</hi> and have not the firſt <hi>Curſe</hi> of Diſunion, which was <hi>Confuſion</hi> of <hi>Tongues,</hi> whereby one underſtood not another. But yet the <hi>Dialect</hi> is differing, and it remaineth a kind of Mark of Di<g ref="char:EOLhyphen"/>ſtinction. But for that, <hi>Tempori permittendum,</hi> it is to be leſt to <hi>Time:</hi> For conſidering that both <hi>Languages</hi> do concur in the principal Office and Duty of a <hi>Language,</hi> which is to make a Mans ſelf underſtood; For the reſt, it is rather to be accounted (as it was ſaid) a <hi>Diverſity</hi> of <hi>Dialect,</hi> than of
+<pb n="11" facs="tcp:94576:6"/>
+               <hi>Language:</hi> And as I ſaid in my firſt <hi>Writing,</hi> it is like to bring forth the enriching of one <hi>Language,</hi> by compounding and taking in the proper and ſignificant words of either <hi>Tongue,</hi> rather than a continuance of two <hi>Languages.</hi>
+            </p>
+            <p>For <hi>Leagues</hi> and <hi>Confederacies;</hi> It is true,
+<note place="margin">Leagues, Con<g ref="char:EOLhyphen"/>federacies, Treaties.</note> that neither Nation is now in <hi>Hoſtility</hi> with any <hi>State,</hi> where with the other <hi>Nation</hi> is in <hi>Amity:</hi> But yet ſo, as the <hi>Leagues</hi> and <hi>Trea<g ref="char:EOLhyphen"/>ties</hi> have been concluded with either <hi>Nation</hi> reſpectively, and not with both jointly; which may contain ſome Diver<g ref="char:EOLhyphen"/>ſity of <hi>Articles</hi> of ſtraitneſs of <hi>Amity</hi> with one more than with the other.</p>
+            <p>But many of theſe matters may perhaps be of that kind as may fall within that <hi>Rule, In veſte varietas ſit, ſciſſura non ſit.</hi>
+            </p>
+            <p>Now to deſcend to the particular <hi>Points</hi> wherein the <hi>Realms</hi> ſtand ſevered and divided, over and beſides the for<g ref="char:EOLhyphen"/>mer ſix <hi>Points</hi> of <hi>Separation,</hi> which I have noted and placed as defects or Abatements of the ſix Points of the <hi>
+                  <g ref="char:V">Ʋ</g>nion,</hi> and therefore ſhall not need to be repeated. The <hi>Points</hi> I ſay yet remaining I will divide into <hi>External,</hi> and into <hi>Internal.</hi>
+            </p>
+            <p>The <hi>External Points</hi> therefore of the <hi>ſeparation</hi> are four.
+<note place="margin">External points of the Separation and Union.</note>
+            </p>
+            <list>
+               <item>1. The ſeveral <hi>Crowns,</hi> I mean the <hi>Ceremonial</hi> and <hi>Ma<g ref="char:EOLhyphen"/>terial Crowns.</hi>
+               </item>
+               <item>2. The ſecond is the ſeveral <hi>Names, Stiles,</hi> or <hi>Appella<g ref="char:EOLhyphen"/>tions.</hi>
+               </item>
+               <item>3. The third is the ſeveral <hi>Prints</hi> of the <hi>Seals.</hi>
+               </item>
+               <item>4. The fourth is the ſeveral <hi>Stamps</hi> or <hi>marks</hi> of the <hi>Coins</hi> or <hi>Monies.</hi>
+               </item>
+            </list>
+            <p>It is true that the <hi>External</hi> are in ſome reſpect and Parts much mingled, and interlaced with <hi>Conſiderations Internal,</hi> and that they may be as effectual to the true <hi>
+                  <g ref="char:V">Ʋ</g>nion,</hi> which muſt be the work of Time, as the <hi>Internal,</hi> becauſe they are operative upon the Conceits and Opinions of the <hi>People:</hi> the <hi>Uniting</hi> of whoſe hearts and affections is the life and true <hi>End</hi> of this <hi>Work.</hi>
+            </p>
+            <pb n="12" facs="tcp:94576:7"/>
+            <p>For the <hi>Ceremonial Crowns,</hi>
+               <note place="margin">The Ceremo<g ref="char:EOLhyphen"/>nial or Male<g ref="char:EOLhyphen"/>rial Crowns.</note> the Queſtion will be whether there ſhall be framed one new Imperial <hi>Crown</hi> of <hi>Britain</hi> to be uſed for the times to come.</p>
+            <p>Alſo admitting that to be thought Convenient, whether in the ſrame thereof there ſhall not be ſome Reference to the <hi>Crowns</hi> of <hi>Ireland</hi> and <hi>France.</hi>
+            </p>
+            <p>Alſo whether your <hi>Majeſty</hi> ſhould repeat or iterate your own <hi>Coronation,</hi> and your <hi>Queons,</hi> or only ordain that ſuch new <hi>Crown</hi> ſhall be uſed by your <hi>Posterity</hi> hereafter.</p>
+            <p>The <hi>Difficulties</hi> will be in the Conceit of ſome <hi>Inequality,</hi> whereby the <hi>Realm</hi> of <hi>Scotland</hi> may be thought to be made an Acceſſion unto the <hi>Realm</hi> of <hi>England.</hi> But that reſteth in ſome circumſtances: For the <hi>Compounding</hi> of the two <hi>Crowns</hi> is equal; The <hi>Calling</hi> of the new <hi>Crown</hi> the <hi>Crown</hi> of <hi>Britain</hi> is equal. Onely the <hi>Place</hi> of <hi>Coronation,</hi> if it ſhall be at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> which is the <hi>ancient, August,</hi> and <hi>Sacred place</hi> for the <hi>Kings</hi> of <hi>England,</hi> may ſeem to make an <hi>Inequality:</hi> And again, if the <hi>Crown</hi> of <hi>Scotland</hi> be diſcontinued, then that <hi>Ceremony</hi> which I hear is uſed in the <hi>Parliament</hi> of <hi>Scotland,</hi> in the ab<g ref="char:EOLhyphen"/>ſence of the <hi>Kings</hi> to have the <hi>Crowns</hi> carried in ſolemnity, muſt likewiſe ceaſe.</p>
+            <p>For the <hi>Name,</hi>
+               <note place="margin">The Stiles and Names</note> the main Queſtion is, whether the <hi>Con<g ref="char:EOLhyphen"/>tradicted Name,</hi> of <hi>Britain</hi> ſhall be by your <hi>Majesty</hi> uſed, or the <hi>Divided Names</hi> of <hi>England</hi> and <hi>Scotland.</hi>
+            </p>
+            <p>Admitting there ſhall be an Alteration, then the Caſe will require theſe inferiour Queſtions.</p>
+            <p>Firſt, Whether the <hi>Name</hi> of <hi>Britain</hi> ſhall not only be uſed in your <hi>Majesties Stile,</hi> whether the entire <hi>Stile</hi> is re<g ref="char:EOLhyphen"/>cited, and in all other Forms the <hi>divided Names</hi> to remain, both of the <hi>Realms,</hi> and of the <hi>People;</hi> Or otherwiſe, that the very <hi>divided Names</hi> of <hi>Realms</hi> and <hi>People</hi> ſhall likewiſe be changed or turned into ſpecial or ſubdivided <hi>Names</hi> of the General <hi>Name;</hi> that is to ſay, for Example, Whether your <hi>Majeſty</hi> in your <hi>Stile</hi> ſhall denominate your Self, <hi>King</hi> of <hi>Britain, France</hi> and <hi>Ireland,</hi> &amp;c. And yet
+<pb n="13" facs="tcp:94576:7"/>nevertheleſs in any <hi>Commiſſion, Writ,</hi> or otherwiſe, where your <hi>Majesty</hi> mentioneth <hi>England</hi> or <hi>Scotland,</hi> you ſhall retain the Ancient <hi>Names,</hi> as <hi>Secundum Conſuetudinem Reg<g ref="char:EOLhyphen"/>ni noſtri Angliae;</hi> or whether thoſe Divided <hi>Names</hi> ſhall be for ever loſt and taken away, and turned into the Sub<g ref="char:EOLhyphen"/>diviſions of <hi>South-Britain,</hi> and <hi>North-Britain,</hi> and the <hi>People</hi> to be <hi>South-Britains,</hi> and <hi>North Britains,</hi> and ſo in the Example aforeſaid, the Tenour of the like Clauſe to run <hi>Secundum Conſuetudinem Britanniae Auſtralis.</hi>
+            </p>
+            <p>Alſo if the former of theſe ſhall be thought convenient, whether it were not better for your <hi>Majeſty</hi> to take that Alteration of <hi>Stile</hi> upon you by <hi>Proclamation,</hi> as <hi>Edward</hi> the <hi>Third</hi> did the <hi>Stile</hi> of <hi>France,</hi> than to have it Enacted by <hi>Parliament.</hi>
+            </p>
+            <p>Alſo in the <hi>Alteration</hi> of the <hi>Stile,</hi> whether it were not better to Tranſpoſe the <hi>Kingdom</hi> of <hi>Ireland,</hi> and put it im<g ref="char:EOLhyphen"/>mediately after <hi>Britain,</hi> and ſo place the <hi>Iſlands</hi> together, and the <hi>Kingdom</hi> of <hi>France</hi> being upon the Continent, laſt, in regard that theſe <hi>Iſlands</hi> of the <hi>Weſtern Ocean</hi> ſeem by Nature and Providence an entire <hi>Empire</hi> in themſelves, and alſo that there was never <hi>King</hi> of <hi>England,</hi> ſo entirely poſſeſt of <hi>Ireland</hi> as your <hi>Majesty</hi> is; So as your Stile to run <hi>King</hi> of <hi>Britain, Ireland,</hi> and the <hi>Iſlands Adjacent,</hi> and of <hi>France,</hi> &amp;c.</p>
+            <p>The <hi>Difficulties</hi> in this, have been already throughly beaten over, but they gather but to Two <hi>Heads.</hi>
+            </p>
+            <p>The One, Point of <hi>Honour,</hi> and Love to the former <hi>Names.</hi>
+            </p>
+            <p>The other, <hi>Doubt,</hi> leſt the <hi>Alteration</hi> of the <hi>Name</hi> may in<g ref="char:EOLhyphen"/>duce and involve an <hi>Alteration</hi> of the <hi>Laws</hi> and <hi>Pollicies</hi> of the <hi>Kingdom;</hi> Both which, if your <hi>Majeſty</hi> ſhall aſſume the <hi>Stile</hi> by <hi>Proclamation,</hi> and not by <hi>Parliament,</hi> are in them<g ref="char:EOLhyphen"/>ſelves ſatisfied: For then the uſual <hi>Names</hi> muſt needs re<g ref="char:EOLhyphen"/>main in <hi>Writs</hi> and <hi>Records,</hi> the forms whereof cannot be altered but by <hi>Act of Parliament,</hi> and ſo the point of Honour ſatisfied. And again, your <hi>Proclamation</hi> altereth no <hi>Law,</hi> and
+<pb n="14" facs="tcp:94576:8"/>ſo the Scruple of a tacite or implyed <hi>Alteration</hi> of <hi>Laws,</hi> likewiſe ſatisfied. But then it may be conſidered, whether it were not a <hi>Form</hi> of the greateſt <hi>Honour,</hi> If the <hi>Parliament,</hi> though they did not enact it, yet ſhould become Suiters and Petitioners to your <hi>Majeſty</hi> to aſſume it.</p>
+            <p>For the <hi>Seals;</hi>
+               <note place="margin">The Seals.</note> that there ſhould be but one <hi>Great Seal</hi> of <hi>Britain,</hi> and one <hi>Chancellor,</hi> and that there ſhould onely be a <hi>Seal</hi> in <hi>Scotland</hi> for <hi>Proceſſes</hi> and <hi>ordinary Juſtice;</hi> and that all <hi>Patents</hi> of Grants of <hi>Lands,</hi> or otherwiſe, as well in <hi>Scotland,</hi> as in <hi>England,</hi> ſhould paſs under the <hi>Great Seal</hi> here, kept about your <hi>Perſon;</hi> It is an <hi>Alteration internal,</hi> whereof I do not now ſpeak.</p>
+            <p>But the <hi>Queſtion</hi> in this Place is, whether the <hi>Great Seals</hi> of <hi>England</hi> and <hi>Scotland</hi> ſhould not be changed into one and the ſame Form of <hi>Image</hi> and <hi>Superſcription</hi> of <hi>Bri<g ref="char:EOLhyphen"/>tain,</hi> which nevertheleſs is requiſite ſhould be, with ſome one plain of manifeſt Alteration, leſt there be a buz, and ſuſpect that <hi>Grants</hi> of <hi>Things</hi> in <hi>England,</hi> may be paſſed by the Seal of <hi>Scotland,</hi> or <hi>e converſo.</hi>
+            </p>
+            <p>Alſo,
+<note place="margin">The Standards and Stamps, Moneys.</note> whether this <hi>Alteration</hi> of <hi>Form,</hi> may not be done without <hi>Act of Parliament,</hi> as the <hi>Great Seals</hi> have uſed to be heretofore changed as to their <hi>Impreſſions.</hi>
+            </p>
+            <p>For the <hi>Moneys,</hi> as to the Real and Internal Conſiderati<g ref="char:EOLhyphen"/>on thereof, the <hi>Queſtion</hi> will be, whether your <hi>Majeſty</hi> ſhould not continue two <hi>Mints,</hi> (which the Diſtance of <hi>Territory</hi> conſidered) I ſuppoſe will be of Neceſſity.</p>
+            <p>Secondly, how the <hi>Standards</hi> (if it be not already done, as I hear ſome doubt made of it in popular Rumor) may be reduced into an exact proportion for the time to come; And likewiſe the <hi>Computation, Tale</hi> or <hi>Valuation</hi> to be made exact for the <hi>Moneys</hi> already beaten.</p>
+            <p>That done, the laſt <hi>Question</hi> is, (which is only proper to this place) whether the <hi>Stamp</hi> or the <hi>Image</hi> and <hi>Super<g ref="char:EOLhyphen"/>ſcription</hi> of <hi>Britain,</hi> for the time forwards ſhould not be made the ſelf ſame in both places, without any difference at all.
+<pb n="15" facs="tcp:94576:8"/>A matter alſo which may be done as our <hi>Law</hi> is, by your <hi>Majeſties Preragative</hi> without <hi>Act of Parliament.</hi>
+            </p>
+            <p>Thoſe <hi>Points</hi> are <hi>Points</hi> of <hi>Demonſtration Ad faciendum po<g ref="char:EOLhyphen"/>pulum,</hi> but ſo much the more they go to the <hi>Root</hi> of your <hi>Majeſties Intention,</hi> which is to imprint and inculcate into the Hearts and Heads of the <hi>People,</hi> that they are one <hi>People</hi> and one <hi>Nation.</hi>
+            </p>
+            <p>In this kind alſo, I have heard it paſs abroad in Speech of the <hi>Erection</hi> of ſome <hi>new Order</hi> of <hi>Knighthood,</hi> with a Re<g ref="char:EOLhyphen"/>ference to the <hi>
+                  <g ref="char:V">Ʋ</g>nion,</hi> and an <hi>Oath</hi> appropriate thereunto,
+<note place="margin">Internal Points of Uni<g ref="char:EOLhyphen"/>on.</note> which is a <hi>Point</hi> likewiſe deſerveth a Conſideration. So much for the <hi>External Points.</hi>
+            </p>
+            <p>The <hi>Internal Points</hi> of <hi>Separation,</hi> are as followeth.</p>
+            <list>
+               <item>1. Several <hi>Parliaments.</hi>
+               </item>
+               <item>2. Several <hi>Councels</hi> of <hi>Eſtate.</hi>
+               </item>
+               <item>3. Several <hi>Officers</hi> of the <hi>Crown.</hi>
+               </item>
+               <item>4. Several <hi>Nobilities.</hi>
+               </item>
+               <item>5. Several <hi>Laws.</hi>
+               </item>
+               <item>6. Several <hi>Courts</hi> of <hi>Justice, Trials,</hi> and <hi>Praceſſes.</hi>
+               </item>
+               <item>7. Several <hi>Receipts</hi> and <hi>Finances.</hi>
+               </item>
+               <item>8. Several <hi>Admiralties</hi> and <hi>Merchandizings.</hi>
+               </item>
+               <item>9. Several <hi>Freedoms</hi> and <hi>Liberties.</hi>
+               </item>
+               <item>10. Several <hi>Taxes</hi> and <hi>Impoſts.</hi>
+               </item>
+            </list>
+            <p>As touching the ſeveral <hi>States Eccleſiaſtical,</hi> and the ſeve<g ref="char:EOLhyphen"/>ral <hi>Mints</hi> and <hi>Standards,</hi> and the ſeveral <hi>Articles</hi> and <hi>Trea<g ref="char:EOLhyphen"/>ties</hi> and <hi>Intercourſe</hi> with <hi>Forraign Nations,</hi> I touched them before.</p>
+            <p>In theſe <hi>Points</hi> of the ſtraight and more inward <hi>
+                  <g ref="char:V">Ʋ</g>nion,</hi> there will intervene one principal <hi>Difficulty</hi> and <hi>Impediment</hi> growing from that <hi>Root,</hi> which <hi>Ariſtole</hi> in his <hi>Politicks</hi> ma<g ref="char:EOLhyphen"/>keth to be the Root of all Diviſion and Diſſention in <hi>Com<g ref="char:EOLhyphen"/>mon Wealths,</hi> and that is <hi>Equality</hi> and <hi>Inequality.</hi> For the
+<pb n="16" facs="tcp:94576:9"/>
+               <hi>Realm</hi> of <hi>Scotland</hi> is now an Ancient and Noble <hi>Realm,</hi> ſubſtantive of it ſelf. But when this <hi>Iſland</hi> ſhall be made <hi>Britain,</hi> then <hi>Scotland</hi> is no more to be conſidered as <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> but as a part of <hi>Britain;</hi> no more than <hi>England</hi> is to be conſidered as <hi>England,</hi> but as a Part likewiſe of <hi>Britain,</hi> and conſequently neither of theſe are to be conſidered as things entire of themſelves, but in the Proportion that they bear to the whole. And therefore let us imagine <hi>(Nam id monte poſſumus, quod actu non poſſumus</hi>) that <hi>Britain</hi> had ne<g ref="char:EOLhyphen"/>ver been divided, but had ever been one <hi>Kingdom,</hi> then the part of <hi>Soil,</hi> or <hi>Territory,</hi> which is comprehended un<g ref="char:EOLhyphen"/>der the Name of <hi>Scotland,</hi> is in quantity (as I heard it eſteemed, how truly I know not) not paſt a Third Part of <hi>Britain;</hi> and that Part of <hi>Soil</hi> or <hi>Territory</hi> which is comprehended under the Name of <hi>England,</hi> is Two Parts of <hi>Britain,</hi> leaving to ſpeak of any Difference of <hi>Wealth</hi> or <hi>Population,</hi> and ſpeaking only of <hi>Quantity.</hi> So then if for Example <hi>Scotland</hi> ſhould bring to <hi>Parliament</hi> as much <hi>Nobility</hi> as <hi>England,</hi> then a Third Part ſhould countervail Two Parts; <hi>Nam ſi inequalibus aequalia addas omnia erunt Inaequalia.</hi> And this I proteſt before <hi>God</hi> and your <hi>Majeſty,</hi> I do ſpeak not as a Man born in <hi>England,</hi> but as a Man born in <hi>Britain.</hi> And therefore to deſcend to the Particulars.</p>
+            <p>For the <hi>Parliaments,</hi>
+               <note place="margin">1. Parliament.</note> the Conſideration of that <hi>Point</hi> will fall into Four Queſtions.</p>
+            <p n="1">1. The Firſt, What Proportion ſhall be kept between the <hi>Votes of England,</hi> and the <hi>Votes of Scotland.</hi>
+            </p>
+            <p n="2">2. The Second, Touching the <hi>Manner of Propoſition,</hi> or <hi>poſſeſſing</hi> of the <hi>Parliament</hi> of Cauſes there to be handled; which in <hi>England</hi> is uſed to be done immediately by any Member of the Parliament, or by the Prolocutor, and in <hi>Scotland</hi> is uſed to be done immediately by the <hi>Lords</hi> of <hi>Articles,</hi> whereof the one Form ſeemeth to have more <hi>Liberty,</hi> and the other more <hi>Gravity,</hi> and <hi>Maturity,</hi> and therefore the Queſtion will be, whether of theſe ſhall
+<pb n="17" facs="tcp:94576:9"/>yield to other, or whether there ſhould not be a Mixture of both, by ſome Commiſſions precedent to every <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> in the Nature of <hi>Lords of the Articles,</hi> and yet not excluding the liberty of propounding in full <hi>Parliament</hi> afterwards.</p>
+            <p n="3">3. The Third, Touching the <hi>Orders of Parliament,</hi> how they may be compounded, and the beſt of either taken.</p>
+            <p n="4">4. The Fourth, How thoſe which by <hi>Inheritance</hi> or otherwiſe, have <hi>Offices of Honour</hi> and <hi>Ceremony</hi> in both the <hi>Parliaments,</hi> as the <hi>Lord Steward</hi> with us, <hi>&amp;c.</hi> may be ſatisfied, and Duplicity accommodated.</p>
+            <p>For the <hi>Councels</hi> of <hi>Eſtate,</hi>
+               <note place="margin">2 Counſels of Eſtate.</note> while the <hi>Kingdoms</hi> ſtand di<g ref="char:EOLhyphen"/>vided, it ſhould ſeem neceſſary to continue ſeveral <hi>Coun<g ref="char:EOLhyphen"/>cels,</hi> but if your <hi>Majeſty</hi> ſhould proceed to a ſtrict <hi>
+                  <g ref="char:V">Ʋ</g>nion,</hi> then howſoever your <hi>Majesty</hi> may eſtabliſh ſome <hi>Provin<g ref="char:EOLhyphen"/>cial Councels</hi> in <hi>Scotland,</hi> as there is here of <hi>York,</hi> and in the <hi>Marches</hi> of <hi>Wales,</hi> yet the Queſtion will be, whether it will not be more convenient for your <hi>Majeſty,</hi> to have but one <hi>Privy Councel</hi> about your <hi>Perſon,</hi> whereof the <hi>Principal Officers</hi> of the <hi>Crown</hi> of <hi>Scotland</hi> to be for <hi>Dignity</hi> ſake, howſoever their abiding and remaining may be as your <hi>Majeſty</hi> ſhall imploy their Service. But this Point belongeth meerly and wholly to your <hi>Majeſties</hi> Royal Will and Pleaſure.</p>
+            <p>For the <hi>Officers</hi> of the <hi>Crown,</hi>
+               <note place="margin">3. Officers of the Crown.</note> the Conſideration thereof will fall into theſe Queſtions.</p>
+            <p>Firſt, In regard of the <hi>Latitude</hi> of your <hi>Kingdom,</hi> and the <hi>Diſtance</hi> of <hi>Place,</hi> whether it will not be matter of neceſſity to continue the ſeveral <hi>Officers,</hi> becauſe of the <hi>Impoſſibility</hi> for the Service to be performed by one.</p>
+            <p>The Second, Admitting the <hi>Duplicity</hi> of <hi>Officers</hi> ſhould be continued, yet whether there ſhould not be a difference that one ſhould be the <hi>Principal Officer,</hi> and the other to be but Special and ſubaltern: As for example, one to be <hi>Chancellor</hi> of <hi>Britain,</hi> and the other to be <hi>Chancellor</hi>
+               <pb n="18" facs="tcp:94576:10"/>with ſome ſpecial Addition, as here of the <hi>Dutchy,</hi> &amp;c.</p>
+            <p>The Third, If no ſuch Speciality or Inferiority be thought fit, then whether both <hi>Officers</hi> ſhould not have the <hi>Title</hi> and the <hi>Name</hi> of the whole <hi>Iſland</hi> and <hi>Precincts:</hi> As the <hi>Lord Chancellor</hi> of <hi>England</hi> to be <hi>Lord Chancellor of Britain;</hi> And the <hi>Lord Chancellor of Scotland,</hi> to be <hi>Lord Chancellor of Britain,</hi> but with ſeveral Proviſo's, that they ſhall not intromit themſelves, but within their ſeveral Precincts.</p>
+            <p>For the <hi>Nobilities,</hi>
+               <note place="margin">4 Nobilities.</note> the Conſideration thereof will fall into theſe Queſtions.</p>
+            <p>The Firſt of their <hi>Votes in Parliament,</hi> (which was touched before) what Proportion they ſhall bear to the <hi>Nobility of England,</hi> wherein if the Proportion which ſhall be thought fit, be not full, yet your <hi>Majeſty</hi> may out of your Prerogative ſupply it; for although you cannot make fewer of <hi>Scotland,</hi> yet you may make more of <hi>England.</hi>
+            </p>
+            <p>The Second is touching the <hi>Place,</hi> and <hi>Precedence</hi> where<g ref="char:EOLhyphen"/>in to Marſhal them according to the <hi>Precedence</hi> of <hi>England</hi> in your <hi>Majeſties Stile,</hi> and according to the <hi>Nobility</hi> of <hi>Ireland;</hi> that is, all <hi>Engliſh Earls first,</hi> and then <hi>Scottiſh</hi> will be thought unequal for <hi>Scotland.</hi> To Marſhal them according to <hi>Antiquity,</hi> will be thought unequal for <hi>England.</hi> Becauſe I hear the <hi>Nobility</hi> is generally more Ancient: And therefore the Queſtion will be, Whether the indiffe<g ref="char:EOLhyphen"/>renteſt way were not to take them interchangeably: As for Example, Firſt, the Ancient <hi>Earl of England;</hi> and then the Ancient <hi>Earl of Scotland,</hi> and ſo <hi>Alternis Vicibus.</hi>
+            </p>
+            <p>For the <hi>Laws,</hi>
+               <note place="margin">5. Laws.</note> to make an entire and perfect <hi>
+                  <g ref="char:V">Ʋ</g>nion,</hi> it is a matter of great difficulty and length, both in the <hi>Colle<g ref="char:EOLhyphen"/>cting</hi> of them, and in the Paſſing of them. For Firſt, as to the <hi>Collecting</hi> of them, there muſt be made by the <hi>Law<g ref="char:EOLhyphen"/>yers</hi> of either <hi>Nation,</hi> a <hi>Digeſt,</hi> under <hi>Titles</hi> of their ſeveral <hi>Laws</hi> and <hi>Cuſtoms,</hi> as well <hi>Common Laws,</hi> as <hi>Statutes,</hi> that they may be <hi>Collated</hi> and <hi>Compared,</hi> and that the <hi>Diverſi<g ref="char:EOLhyphen"/>ties</hi>
+               <pb n="19" facs="tcp:94576:10"/>may appear, and be diſcerned of. And for the <hi>Paſ<g ref="char:EOLhyphen"/>ſing</hi> of them, we ſee by experience, that <hi>Patrius mos</hi> is dear to all Men, and that Men are bred and nouriſhed up in the Love of it, and therefore how harſh <hi>Changes</hi> and <hi>In<g ref="char:EOLhyphen"/>novations</hi> are. And we ſee likewiſe what Diſputation and Argument the <hi>Alteration</hi> of ſome one <hi>Law</hi> doth cauſe and bring forth, how much more the Alteration of the whole <hi>Corps</hi> of the <hi>Law?</hi> Therefore the firſt <hi>Queſtion</hi> will be, Whe<g ref="char:EOLhyphen"/>ther it be not good to proceed by Parts, and to take that that is moſt neceſſary, and leave the reſt to Time? The Parts therefore, or Subject of <hi>Laws,</hi> are for this Purpoſe fitlieſt di<g ref="char:EOLhyphen"/>ſtributed, according to that ordinary <hi>Diviſion</hi> of <hi>Criminal</hi> and <hi>Civil,</hi> and thoſe of <hi>Criminal Cauſes,</hi> into <hi>Capital</hi> and <hi>Penal.</hi>
+            </p>
+            <p>The ſecond <hi>Queſtion</hi> therefore is, allowing the General <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> of <hi>Laws</hi> to be too great a Work to embrace, whether it were not convenient that <hi>Caſes Capital</hi> were the ſame in both <hi>Nations,</hi> I ſay the <hi>Caſes,</hi> I do not ſpeak of the <hi>Proceed<g ref="char:EOLhyphen"/>ings</hi> or <hi>Trials;</hi> That is to ſay, whether the ſame <hi>Offences</hi> were not fit to be made <hi>Treaſon</hi> or <hi>Felony</hi> in both places?</p>
+            <p>The third <hi>Queſtion</hi> is, whether <hi>Caſes Penal,</hi> though not <hi>Capital,</hi> yet if they concern the <hi>Publick State,</hi> or otherwiſe the <hi>Diſcipline</hi> of <hi>Manners,</hi> were not fit likewiſe to be brought into one <hi>Degree,</hi> as the <hi>Caſe</hi> of <hi>Miſpriſion</hi> of <hi>Treaſon,</hi> The <hi>Caſe</hi> of <hi>Premunire,</hi> the <hi>Caſe</hi> of <hi>Pugitives,</hi> the <hi>Caſe</hi> of <hi>Inceſt,</hi> the <hi>Caſe</hi> of <hi>Simony,</hi> and the reſt.</p>
+            <p>But the <hi>Queſtion</hi> that is more urgent than any of theſe, is, whether there <hi>Caſes,</hi> at the leaſt, be they of a higher or infe<g ref="char:EOLhyphen"/>riour degree, wherein the <hi>Fact</hi> committed, or <hi>Act done</hi> in <hi>Scotland,</hi> may prejudice the <hi>State</hi> and <hi>Subjects</hi> of <hi>England,</hi> or <hi>e converſo,</hi> are not to be reduced into one <hi>
+                  <g ref="char:V">Ʋ</g>niformity,</hi> of <hi>Law</hi> and <hi>puniſhment;</hi> as for example, a Perjury committed in a <hi>Court</hi> of <hi>Juſtice</hi> in <hi>Scotland,</hi> cannot be prejudicial in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> becauſe <hi>Depoſitions</hi> taken in <hi>Scotland,</hi> cannot be pro<g ref="char:EOLhyphen"/>duced and uſed here in <hi>England.</hi> But a <hi>Forgery</hi> of a <hi>Deed</hi> in <hi>Scotland,</hi> I mean with a falſe <hi>Date</hi> of <hi>England</hi> may be uſed
+<pb n="20" facs="tcp:94576:11"/>and given in Evidence in <hi>England.</hi> So likewiſe the depo<g ref="char:EOLhyphen"/>pulating of a <hi>Town</hi> in <hi>Scotland,</hi> doth not directly prejudice the <hi>State</hi> of <hi>England:</hi> But if an <hi>Engliſh Merchant</hi> ſhall carry Silver and <hi>Gold</hi> into <hi>Scotland</hi> (as he may) and thence tran<g ref="char:EOLhyphen"/>ſport it into forraign parts, this prejudiceth the <hi>State</hi> of <hi>England,</hi> and may be an Evaſion to all the <hi>Laws</hi> of <hi>England,</hi> ordained in that <hi>Caſe:</hi> And therefore had need to be bridled with as ſevere a <hi>Law</hi> in <hi>Scotland,</hi> as is here in <hi>England.</hi>
+            </p>
+            <p>Of this kind there are many <hi>Laws.</hi>
+            </p>
+            <p>The <hi>Law</hi> of the 50th. of <hi>Rich.</hi> the 2. of going over with<g ref="char:EOLhyphen"/>out licence, if there be not the like <hi>Law</hi> in <hi>Scotland</hi> will be fruſtrated and evaded: For any <hi>Subject</hi> of <hi>England</hi> may go firſt into <hi>Scotland,</hi> and thence into forraign parts.</p>
+            <p>So the <hi>Laws</hi> prohibiting Tranſportation of ſundry <hi>Com<g ref="char:EOLhyphen"/>modities,</hi> as <hi>Gold,</hi> and <hi>Silver, Ordnance, Artillery, Corn,</hi> &amp;c. if there be not a Correſpondence of <hi>Laws</hi> in <hi>Scotland,</hi> will in like manner be deluded and fruſtrate: For any <hi>Engliſh Merchant</hi> or <hi>Subject</hi> may carry ſuch <hi>Commodities</hi> firſt in<g ref="char:EOLhyphen"/>to <hi>Scotland,</hi> as well as he may carry them from Port to Port in <hi>England.</hi> And out of <hi>Scotland</hi> into Forraign Parts, without any peril of <hi>Law.</hi>
+            </p>
+            <p>So <hi>Libels</hi> may be deviſed and written in <hi>Scotland,</hi> and publiſhed and ſcattered in <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Treaſons</hi> may be plotted in <hi>Scotland</hi> and executed in <hi>England.</hi>
+            </p>
+            <p>And ſo in many other <hi>Caſes,</hi> if there be not the like Se<g ref="char:EOLhyphen"/>verity of <hi>Law</hi> in <hi>Scotland,</hi> to reſtrain <hi>Offences,</hi> that there is in <hi>England;</hi> (whereof we are here ignorant whether there be or no) It will be a Gap or ſtop even for <hi>Engliſh Subjects</hi> to eſcape and avoid the <hi>Laws</hi> of <hi>England.</hi>
+            </p>
+            <p>But for <hi>Treaſons</hi> the beſt is that by the <hi>Statute</hi> of 26. K. <hi>Hen.</hi> the 8. <hi>Cap.</hi> 13. any <hi>Treaſon</hi> committed in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> may be proceeded with in <hi>England</hi> as well as <hi>Treaſons</hi> committed in <hi>France, Rome,</hi> or elſewhere.</p>
+            <pb n="21" facs="tcp:94576:11"/>
+            <p>For <hi>Courts</hi> of <hi>Juſtice, Trials, Proceſs,</hi>
+               <note place="margin">6 Courts of Juſtice, and Adminiſtrati<g ref="char:EOLhyphen"/>on of Laws.</note> and other <hi>Admi<g ref="char:EOLhyphen"/>niſtration</hi> of <hi>Laws,</hi> to make any <hi>Alteration</hi> in either <hi>Na<g ref="char:EOLhyphen"/>tion,</hi> it will be a Thing ſo new and unwonted to either <hi>People;</hi> That it may be doubted it will make the <hi>Admi<g ref="char:EOLhyphen"/>niſtration</hi> of <hi>Juſtice,</hi> (Which of all other Things ought to be known, and certain as the beaten way) to become in<g ref="char:EOLhyphen"/>tricate and uncertain: And beſides, I do not ſee that the Severalty of <hi>Adminiſtration</hi> of <hi>Juſtice,</hi> though it be by <hi>Court Soveraign</hi> of <hi>laſt reſort;</hi> (mean without <hi>Appeal,</hi> or <hi>Errour,</hi>) is any Impediment at all to the <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> of a <hi>King<g ref="char:EOLhyphen"/>dom:</hi> As we ſee by Experience, in the ſeveral <hi>Courts</hi> of <hi>Parliament,</hi> in the <hi>Kingdom</hi> of <hi>France:</hi> And I have been always of Opinion, that the <hi>Subjects</hi> of <hi>England</hi> do alrea<g ref="char:EOLhyphen"/>dy fetch <hi>Juſtice</hi> ſomewhat far off, more than in any <hi>Na<g ref="char:EOLhyphen"/>tion</hi> that I know, the largeneſs of the <hi>Kingdom</hi> conſidered, though it be holpen in ſome part by the <hi>Circuits</hi> of the <hi>Judges;</hi> And the two <hi>Councels</hi> at <hi>York,</hi> and the <hi>Marches</hi> of <hi>Wales</hi> eſtabliſhed.</p>
+            <p>But it may be a <hi>Queſtion,</hi> whether as <hi>Commune Vinculum,</hi> of the <hi>Juſtice</hi> of both <hi>Nations;</hi> your <hi>Majeſty</hi> ſhould not erect ſome <hi>Court</hi> about your <hi>perſon</hi> in the Nature of the <hi>Grand Councel</hi> of <hi>France:</hi> To which <hi>Court</hi> you might by way of <hi>Evocation</hi> draw Cauſes from the ordinary <hi>Judges</hi> of both <hi>Nations;</hi> For ſo doth the French King from all the <hi>Courts</hi> of <hi>Parliament</hi> in <hi>France;</hi> many of which are more remote from <hi>Paris</hi> than any part of <hi>Scotland</hi> is from <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+            </p>
+            <p>For <hi>Receipts</hi> and <hi>Finances,</hi> I ſee no <hi>Queſtion</hi> will ariſe;
+<note place="margin">7 Receits, Fi<g ref="char:EOLhyphen"/>nances, and Patrimonies of the Crown.</note> In regard it will be Matter of Neceſſity to eſtabliſh in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> a <hi>Receit</hi> of <hi>Treaſure,</hi> for <hi>Payments,</hi> and Erogations to be made in thoſe parts: And for the <hi>Treaſure</hi> of <hi>Spare,</hi> in either <hi>Receipts</hi> the <hi>Customs</hi> thereof may well be ſeve<g ref="char:EOLhyphen"/>ral; conſidering by your <hi>Majeſties Commandment,</hi> they may be at all times removed, or diſpoſed according to your <hi>Majeſties Occaſions.</hi>
+            </p>
+            <pb n="22" facs="tcp:94576:12"/>
+            <p>For the <hi>Patrimonies</hi> of both <hi>Crowns,</hi> I ſee no Queſtion will ariſe; Except your <hi>Majeſty</hi> would be pleaſed to make one compounded <hi>Annexation,</hi> for an Inſeparable <hi>Patrimony</hi> to the <hi>Crown</hi> out of the <hi>Lands</hi> of both <hi>Nations;</hi> And ſo the like for the <hi>Principality</hi> of <hi>Britain,</hi> and for other <hi>Appennages,</hi> of the reſt of your <hi>Children;</hi> Erecting likewiſe ſuch <hi>Dutchies</hi> and <hi>Honours</hi> compounded of the Poſſeſſions of both <hi>Nati<g ref="char:EOLhyphen"/>ons,</hi> as ſhall be thought fit.</p>
+            <p>For <hi>Admiralty</hi> or <hi>Navy,</hi>
+               <note place="margin">8 Admiralty, Navy, and Merchandi<g ref="char:EOLhyphen"/>zing.</note> I ſee no great Queſtion will a<g ref="char:EOLhyphen"/>riſe: For I ſee no Inconvenience for your <hi>Majeſty</hi> to con<g ref="char:EOLhyphen"/>tinue <hi>Shipping</hi> in <hi>Scotland.</hi> And for the <hi>Juriſdictions</hi> of the <hi>Admiralities,</hi> and the Profit, and Caſualties of them, they will be reſpective unto the <hi>Coaſts,</hi> over againſt which the Seas lye, and are ſituated; As it is here with the <hi>Ad<g ref="char:EOLhyphen"/>miralties</hi> of <hi>England.</hi>
+            </p>
+            <p>And for <hi>Merchandizing,</hi> it may be a Queſtion, whether that the <hi>Companies</hi> of the <hi>Merchant Adventurers,</hi> of the <hi>Turkie Merchants</hi> and the <hi>Muſcovy Merchants,</hi> (if they ſhall be continued,) ſhould not be compounded of <hi>Mer<g ref="char:EOLhyphen"/>chants</hi> of both <hi>Nations, Engliſh</hi> and <hi>Scottiſh.</hi> For to leave <hi>Trade</hi> free in the one <hi>Nation,</hi> and to have it reſtrained in the other, may percaſe breed ſome <hi>Inconveniency.</hi>
+            </p>
+            <p>For <hi>Freedoms</hi> and <hi>Liberties</hi> the <hi>Charters</hi> of both <hi>Nati<g ref="char:EOLhyphen"/>ons</hi> may be vevived:
+<note place="margin">9 Freedom and Libertie.</note> And of ſuch <hi>Liberties</hi> as are agreea<g ref="char:EOLhyphen"/>ble, and convenient for the <hi>Subjects,</hi> and <hi>People</hi> of both <hi>Nations,</hi> one <hi>Great Charter</hi> may be made, and confirmed to the <hi>Subjects</hi> of <hi>Britain;</hi> And thoſe <hi>Liberties</hi> which are pe<g ref="char:EOLhyphen"/>culiar or proper to either <hi>Nation,</hi> to ſtand in State as they do.</p>
+            <p>But for <hi>Impoſts</hi> and <hi>Cuſtoms,</hi>
+               <note place="margin">10. Taxes and Impoſts.</note> it will be a great <hi>Question</hi> how to accomodate them, and reconcile them: For if they be much eaſier in <hi>Scotland</hi> than they be here in <hi>England,</hi> (which is a Thing I know not) then this Inconvenience will follow; That the <hi>Merchants</hi> of <hi>England,</hi> may unlade in the <hi>Ports</hi> of <hi>Scotland;</hi> and this <hi>Kingdom</hi> to be ſerved from
+<pb n="23" facs="tcp:94576:12"/>thence, and your <hi>Majeſties Cuſtoms</hi> abated.</p>
+            <p>And for the Queſtion, whether the <hi>Scottiſh Merchants</hi> ſhould pay <hi>Strangers Custom</hi> in <hi>England,</hi> that reſteth upon the <hi>Point</hi> of <hi>Naturalization,</hi> which I touched before.</p>
+            <p>Thus have I made your <hi>Majesty</hi> a brief and naked <hi>Me<g ref="char:EOLhyphen"/>morial</hi> of the <hi>Articles</hi> and <hi>Points</hi> of this great <hi>Cauſe,</hi> which may ſerve only to excite and ſtir up your <hi>Majeſties Royal Judgment,</hi> and the <hi>Judgment of Wiſer Men,</hi> whom you will be pleaſed to call to it: Wherein I will not preſume to perſwade or diſſwade any thing; Nor to interpoſe my own Opinion; But do expect Light from your <hi>Majesties Royal Directions,</hi> unto the which I ſhall ever ſubmit my <hi>Judgment,</hi> and apply my <hi>Travail:</hi> And I moſt humbly pray your <hi>Majeſty</hi> in this which is done to pardon my Er<g ref="char:EOLhyphen"/>rors, and to cover them with my good Intention and Mean<g ref="char:EOLhyphen"/>ing, and Deſire I have to do your <hi>Majesty Service,</hi> and to acquit the Truſt that was repoſed in me, and chiefly in your <hi>Majeſties</hi> benign and gracious Acceptation.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
